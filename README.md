@@ -1,4 +1,4 @@
-You need to download the [llama2](https://huggingface.co/meta-llama/Llama-2-7b-chat) model before you can run this code.
+You need to download the [llama2](https://huggingface.co/meta-llama/Llama-2-7b-chat) model and set your openai api in dall_e3.py before you run this code.
 
 **Quick Start**
 
